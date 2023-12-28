@@ -11,7 +11,7 @@ Um navegador da web moderno (como Google Chrome, Firefox, etc.)
 Como usar
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/vinefps/projeto-calculadora.git
 
 Navegue até o diretório do projeto:
 cd nome-do-repositorio
